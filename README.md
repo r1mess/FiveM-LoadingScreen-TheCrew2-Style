@@ -10,6 +10,12 @@ On the loading screen, you can see:
 # Installation
 Just drag and drop into your server
 
-# How to customize
-Go to assets/img/
-You will see 2 files, the logo and the video, make sure that when you change the name will be the same.
+# Change Video
+- Open the /assets/img folder.
+- Replace the ChangeMe.webm with another webm of your choice.
+- Restart the resource.
+
+- # Change Logo
+- Open the /assets/img folder.
+- Replace the Logo.png with another png of your choice.
+- Restart the resource.

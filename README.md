@@ -15,7 +15,7 @@ Just drag and drop into your server
 - Replace the ChangeMe.webm with another webm of your choice.
 - Restart the resource.
 
-- # Change Logo
+# Change Logo
 - Open the /assets/img folder.
 - Replace the Logo.png with another png of your choice.
 - Restart the resource.
